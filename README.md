@@ -22,10 +22,8 @@ La fuente de los datos es la pagina estatal datos.gob.es y la dirección a los m
     2. Gráficos en Matplotlib
     3. Gráficos en Plotly
         1. LinePlot
-        ![](./svg_figures/tsaplot.svg)
-<img src="./svg_figures/tsaplot.svg">
+<img src="./svg_figures/tsaplot.svg"> 
         2. BarPlot
-        ![](./svg_figures/tsabarplot.svg)
 <img src="./svg_figures/tsabarplot.svg">
 2. En qué distrito hay más afluencia de coches (se sacan un mayor numero de tickets de aparcamiento)
    1. Barrio de mayor concurrencia de coches
@@ -35,10 +33,8 @@ La fuente de los datos es la pagina estatal datos.gob.es y la dirección a los m
    2. Qué barrio es el que mayor ratio de coches tiene distintivo C, B y ECO
        1. Gráficos Plotly:
            1. BarPlot 
-         ![](./svg_figures/Arganzbarplot.svg)
 <img src="./svg_figures/Arganzbarplot.svg">
            2. BarPlot con filtro
-         ![](./svg_figures/distbarplot.svg)
 <img src="./svg_figures/distbarplot.svg">
 4. Diferencia entre tickets sacados por la aplicacion y en los parquimetros
     1. Gráfico de Seaborn: CatPlot
