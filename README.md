@@ -36,6 +36,7 @@ La fuente de los datos es la pagina estatal datos.gob.es y la dirección a los m
 <img src="./svg_figures/Arganzbarplot.svg">
            2. BarPlot con filtro
 <img src="./svg_figures/distbarplot.svg">
+
 4. Diferencia entre tickets sacados por la aplicacion y en los parquimetros
     1. Gráfico de Seaborn: CatPlot
 5. Zona en la que más tickets de aparcamiento se adquieren para la zona VERDE [mas se fastidia a los residentes]
