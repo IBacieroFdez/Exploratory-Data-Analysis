@@ -46,3 +46,4 @@ La fuente de los datos es la pagina estatal datos.gob.es y la dirección a los m
     
     
     
+<img src="./barPlotDropDown.svg">
