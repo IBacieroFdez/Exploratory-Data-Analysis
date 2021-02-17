@@ -43,7 +43,3 @@ La fuente de los datos es la pagina estatal datos.gob.es y la dirección a los m
     1. Distrito en el que más recauda la Zona Verde
 6. Zona en la que se aparca por más tiempo
     1. Recaudación total, qué tipo de zona obtiene mayores ingresos
-    
-    
-    
-<img src="./BarPlotDropDown.html">
